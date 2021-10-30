@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="meowth.png" height="200px"/>
+  <img src="https://raw.githubusercontent.com/siddharthkp/unique-string-pokemon/main/meowth.png" height="200px"/>
   <br><br>
   <b>Get a unique hyphenated string like <code>meowth-used-fury-swipes</code></b>
 </p>

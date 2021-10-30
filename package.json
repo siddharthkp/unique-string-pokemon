@@ -1,6 +1,6 @@
 {
   "name": "unique-string-pokemon",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Get a unique hyphenated string like meowth-used-fury-swipes",
   "main": "index.js",
   "keywords": [
